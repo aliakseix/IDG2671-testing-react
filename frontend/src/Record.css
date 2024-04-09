@@ -1,0 +1,12 @@
+
+.record{
+	display: flex;
+	margin: 0 1vmin;
+}
+
+.record-piece{
+	flex: 1;
+	padding: 1vmin 0;
+	text-align: left;
+	border-bottom: 1px solid lightgray;
+}

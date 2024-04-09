@@ -1,0 +1,23 @@
+.error-container{
+	background-color: blanchedalmond;
+	padding: 1vmin;
+	border: 1px solid red;
+	border-radius: 1vmin;
+	text-align: center;
+	margin: 1vmin;
+}
+
+form > * {
+	margin: 1vmin;
+}
+
+input{
+	padding: 1vmin;
+	margin: 1vmin;
+}
+
+.new-record-form{
+	margin: 2vmin 0;
+	padding: 2vmin 0;
+	background-color:aliceblue;
+}
